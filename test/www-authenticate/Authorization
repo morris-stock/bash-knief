@@ -1,0 +1,1 @@
+Authorization: Digest username="18211111112", realm="ZTE", nonce="1e75826d67da7b52dea36014b0c470a1", uri="sip:192.168.90.55:14121", response="351939468dd0311c437cb35ec967050b", algorithm=MD5, cnonce="0a4f113b", opaque="4e87098fdd86b58da6659d14623936de", qop=auth, nc=00000001
